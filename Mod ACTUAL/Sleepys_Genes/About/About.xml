@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Sleepy's Cosmetic Genes</name>
+    <name>Sleepy's Genes</name>
     <author>Sleepy068</author>
     <url>https://github.com/sleepy068/Rimworld_Genes</url>
-    <packageId>sleepy068.genes1</packageId>
+    <packageId>sleepy068.genesA</packageId>
     <supportedVersions>
 		<li>1.4</li>
     </supportedVersions>
 
     <description>
 
-[h2]Sleepy's Cosmetic Genes(v1.0.0)[/h2]
+[h2]Sleepy's Genes(v1.0.0)[/h2]
 
 
 [img]https://i.imgur.com/DbnM7jC.png[/img]
@@ -50,6 +50,8 @@ https://github.com/sleepy068/Rimworld_Genes
 
     <modDependencies>
 	<li>
+		<packageId>Ludeon.RimWorld.Biotech</packageId>
+		<displayName>Biotech</displayName>
 	</li>
     </modDependencies>
     <modDependenciesByVersion>
