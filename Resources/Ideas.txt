@@ -1,5 +1,34 @@
-Fur Cat Ears
-Fox Ears
-Short Dog Ears
-Long Dog Ears
+Cat Ears - Stub
+Fox Ears - Fine Tall
+Fox Ears - Fine Wide
+Fox Ears - Fluffy Tall
+Fox Ears - Fluffy Wide
+Fox Ears - Fennex
+Dog Ears - Fine Short
+Dog Ears - Fine Long
+Dog Ears - Fluffy Short
+Dog Ears - Fluffy Long
+Deer Ears
+Rabbit Ears - Fine Tall
+Rabbit Ears - Fine Flop
+Rabbit Ears - Fluffy Tall
+Rabbit Ears - Fluffy Flop
+Mouse Ears
+Elephant Ears
+Cow Ears
+
+Dear Antlers
+Moose Antlers
+Sheep Horns
+Goat Horns
+Rhino Horn
+Demon Horns
+
 Monkey Tail
+Cat Tail - Fine
+Cat Tail - Fluffy
+Fox Tail
+Dog Tail - Fine
+Dog Tail - Fluffy
+Cow Tail
+Scorpion Tail
